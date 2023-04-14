@@ -1,6 +1,6 @@
 # Drumkit App
 This is a simple web application that allows users to play different drum sounds by clicking on the buttons on the screen or pressing the corresponding keys on their keyboard.
-Live demo: ...
+Live demo: https://akrzeminska.github.io/drum_kit_js_basic/
 
 ## Table of Contents
 * [Features](#features)
